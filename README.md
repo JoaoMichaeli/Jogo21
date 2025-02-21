@@ -10,32 +10,18 @@ O **Jogo21** é um jogo de cartas onde o objetivo é se aproximar de 21 pontos s
 1. Clone este repositório:
    ```bash
    git clone https://github.com/JoaoMichaeli/Jogo21.git
+
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd Jogo21
    
-Navegue até o diretório do projeto:
-bash
-Copiar
-Editar
-cd Jogo21
-Compile e execute o programa:
-bash
-Copiar
-Editar
-javac Jogo21.java
-java Jogo21
-Contribuição
+3. Compile e execute o programa:
+   ```bash
+   javac Jogo21.java
+   java Jogo21
+
+## Contribuição
 Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Basta enviar um pull request!
 
-Licença
-Este projeto está licenciado sob a Licença MIT.
-
-perl
-Copiar
-Editar
-
-Você pode copiar e colar esse conteúdo diretamente no seu arquivo `README.md`.
-
-
-
-
-
-
+## Licença
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
